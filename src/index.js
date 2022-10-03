@@ -37,6 +37,7 @@ function Hi(){
       <h3>Personal Info</h3>
     <div className='maininfo'>
       <div className='leftinfo'>
+        
         <ul>
           <li>03132070176</li>
           <li>City: Karachi</li>
