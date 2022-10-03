@@ -31,7 +31,7 @@ function Hi(){
     </div>
     <div className='right'>
     <h1>Resume</h1>
-    <div className='para'>Hi My name is Hassan Khan I'm Front-end-developer I can design and Develop a custom website and redesign an existing Website currently I'm doing Web and Mobile Hybrid application cource From Saylani IT Mass Training Operation in Batch no 8 I'm passionate about programming my goal is to be a professional software developer and work with multinational companies </div>
+    <div className='para'>Hi My name is HassanKhan I'm Front-end-developer I can design and Develop a custom website and redesign an existing Website currently I'm doing Web and Mobile Hybrid application cource From Saylani IT Mass Training Operation in Batch no 8 I'm passionate about programming my goal is to be a professional software developer and work with multinational companies </div>
     <p></p>
       <h1>Front-end-Developer</h1>
       <h3>Personal Info</h3>
