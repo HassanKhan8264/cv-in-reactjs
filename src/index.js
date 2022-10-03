@@ -27,7 +27,7 @@ function Hi(){
       <div className="imgDiv">
     <img className="img" src={img} alt="profile-img"></img>
       </div>
-      <div className="nameDiv">HassanKhan</div>
+      <div className="nameDiv">Hassan Khan</div>
     </div>
     <div className='right'>
     <h1>Resume</h1>
